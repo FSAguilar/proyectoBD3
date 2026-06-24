@@ -80,7 +80,8 @@ img {
     content: '';
     position: absolute;
     inset: 0;
-    background-image: url('https://www.noticiasfides.com/images/news/2025/01/u-foto-upb_1737145473.jpg');
+
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/b/b5/UPB_en_La_Paz.jpg');
     background-size: cover;
     background-position: center 30%;
     filter: brightness(0.45) saturate(1.1);
@@ -874,7 +875,7 @@ textarea.form-control {
     content: '';
     position: absolute;
     inset: 0;
-    background-image: url('https://www.noticiasfides.com/images/news/2025/01/u-foto-upb_1737145473.jpg');
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/b/b5/UPB_en_La_Paz.jpg');
     background-size: cover;
     background-position: center 30%;
     filter: brightness(0.45) saturate(1.1);
